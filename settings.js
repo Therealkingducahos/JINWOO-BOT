@@ -22,7 +22,7 @@ global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ ʙᴏᴛ ᴠ2'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '50943057090' 
 //Type your main number here
 
 //=================================================//
@@ -31,7 +31,7 @@ global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['263714757857', 
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ' 
+global.ownername = process.env.OWNER_NAME || 'THEREALKING' 
 //Type your name here
 
 //=================================================//
@@ -64,7 +64,7 @@ global.statusemoji = process.env.STATUS_EMOJI || '🧡'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
-global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
+global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'false'
 // set true to enable and false to disable auto status view
 
 //=================================================//
@@ -72,7 +72,7 @@ global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'false'
 // set true to enable and false to disable auto status react
 
 //=================================================//
-global.alwaysonline = process.env.ALWAYS_ONLINE || 'true'
+global.alwaysonline = process.env.ALWAYS_ONLINE || 'false'
 //Set true to make the bot online 24/7 or set false to disable always online
 
 
